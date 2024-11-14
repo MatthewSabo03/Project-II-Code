@@ -28,3 +28,7 @@ We require the following dependencies:
 - `matplotlib`: https://github.com/matplotlib/matplotlib
 - `torch-two-sample`: https://github.com/josipd/torch-two-sample
 - `keras-resnet`: https://github.com/broadinstitute/keras-resnet
+
+
+Note:
+This Code is mostly pulled directly from the paper named above to be used in the paper "Testing the Efficacy and Feature Attribution Explanation in Machine Learning Bias Reduction" with subtle changes to syntax to let it run on Python 3.7.7
